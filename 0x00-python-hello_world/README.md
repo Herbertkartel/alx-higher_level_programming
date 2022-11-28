@@ -1,1 +1,1 @@
-A shell script that runs a pyhton script
+A python script that prints
