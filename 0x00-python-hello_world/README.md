@@ -1,1 +1,1 @@
-Copy cut paste
+Create a new sentence
