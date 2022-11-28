@@ -1,1 +1,1 @@
-Print string
+Concatenate and print two strings
