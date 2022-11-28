@@ -1,1 +1,1 @@
-Create a new sentence
+A script of the zen of python
