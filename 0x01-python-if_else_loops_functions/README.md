@@ -1,1 +1,1 @@
-A program that checks for lower case characters
+A program that prints strings in lowercase
