@@ -1,1 +1,1 @@
-A program that prints strings in lowercase
+A function that prints the last digit of a number
