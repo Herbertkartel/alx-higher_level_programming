@@ -1,1 +1,1 @@
-Positives and negatves
+A program that assigns a random number to a variable
