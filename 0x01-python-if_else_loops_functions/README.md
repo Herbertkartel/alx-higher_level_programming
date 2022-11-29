@@ -1,1 +1,1 @@
-A  program that prints the ASCII alphabet
+A function that creates a copy of the string
