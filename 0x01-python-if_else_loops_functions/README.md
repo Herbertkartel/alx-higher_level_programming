@@ -1,1 +1,1 @@
-function that adds two integers and returns the result
+Return a to the power of b
