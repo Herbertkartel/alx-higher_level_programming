@@ -1,1 +1,1 @@
-A program that prints decimals in hexa
+A program that prints numnbers from 0 t0 99
