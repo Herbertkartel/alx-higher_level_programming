@@ -1,1 +1,1 @@
-A program that prints Ascii alphabet
+A progrma that prints ASCII alphabet in lowercase
