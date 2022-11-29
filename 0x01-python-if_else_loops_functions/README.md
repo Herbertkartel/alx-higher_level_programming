@@ -1,1 +1,1 @@
-A function that prints the numbers from 1 to 100 separated by a space
+A function in C that inserts a number into a sorted singly linked list
