@@ -1,1 +1,1 @@
-A program that prints two different combinations
+A program that checks for lower case characters
