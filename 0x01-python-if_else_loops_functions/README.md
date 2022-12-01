@@ -1,1 +1,1 @@
-Assign a random number to a variable
+A program that prints the ASCII alphabet
