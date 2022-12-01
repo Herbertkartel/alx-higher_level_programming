@@ -1,1 +1,1 @@
-A program that prints numbers from 0 to 99
+A program that prints all possible different combinations of two digits
