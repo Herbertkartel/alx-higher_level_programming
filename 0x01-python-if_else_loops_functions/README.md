@@ -1,1 +1,1 @@
-A progrma that prints ASCII alphabet in lowercase
+A program that assigns a random number
