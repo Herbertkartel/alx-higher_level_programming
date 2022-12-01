@@ -1,1 +1,1 @@
-A program that prints the ASCII alphabet in lower case
+A program that prints all numbers in decimal and hexadecimal
