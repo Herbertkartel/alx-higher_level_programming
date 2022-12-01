@@ -1,1 +1,1 @@
-Positive and negative
+Assign a random number to a variable
