@@ -1,1 +1,1 @@
-Def magic calculation
+A program that prints the alphabet in lowercase
