@@ -1,1 +1,1 @@
-A program that prints all the the names defined by the module
+A program tha imports the variable a from the file
