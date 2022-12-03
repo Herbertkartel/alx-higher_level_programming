@@ -1,1 +1,1 @@
-A program that prints the number of and lists of its arguments
+A program that prints the results of all the arguments
