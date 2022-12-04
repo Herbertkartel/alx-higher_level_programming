@@ -1,1 +1,1 @@
-A program that prints the number of lists
+A program that prints the results of the addition of all the results

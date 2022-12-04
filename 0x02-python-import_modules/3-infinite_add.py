@@ -1,12 +1,9 @@
 #!/usr/bin/python3
-from sys import argv
-
-
-def main():
-    sum = 0
-    for i in range(1, len(argv)):
-        sum += int(argv[i]):
-    print(sum)
 
 if __name__ == "__main__":
-    main()
+    """Print the sum of 1 and 2."""
+    from add_0 import add
+
+    a = 1
+    b = 2
+    print("{} + {} = {}".format(a, b, add(a, b)))
