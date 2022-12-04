@@ -1,1 +1,1 @@
-A shell script that runs a python script
+A script that prints a sentence followed by a new line
