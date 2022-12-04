@@ -1,1 +1,1 @@
-A program that prints the number of lists and its arguments
+A program that prints the number of lists
