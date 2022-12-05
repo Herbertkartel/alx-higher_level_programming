@@ -1,1 +1,1 @@
-Replace in acopy
+A function that removes all characters
