@@ -1,1 +1,1 @@
-A function that finds all multiples of 2 in a list
+ function that deletes the item at a specific position in a list
