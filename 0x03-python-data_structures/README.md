@@ -1,1 +1,1 @@
-A function that replaces an element of a list at a specific position (like in C)
+A function that prints a list of all integers in reverse
