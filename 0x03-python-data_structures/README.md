@@ -1,1 +1,1 @@
-A function that prints all lists of integers
+A function that retrieves an element from a list like in C
