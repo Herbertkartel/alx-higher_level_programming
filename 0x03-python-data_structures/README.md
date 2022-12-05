@@ -1,1 +1,1 @@
-A function that adds 2 tuples
+A function that returns a tuple with the length of a string and its first character
