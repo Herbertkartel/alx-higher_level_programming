@@ -1,1 +1,1 @@
-A function that finds the biggest integer of a list
+A function that finds all multiples of 2 in a list
