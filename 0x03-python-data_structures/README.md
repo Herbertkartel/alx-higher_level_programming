@@ -1,1 +1,1 @@
-Prototypes and palindrome
+Python lists
