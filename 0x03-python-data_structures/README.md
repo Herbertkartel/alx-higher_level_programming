@@ -1,1 +1,1 @@
-A function that adds 2 tuples
+A function that finds the biggest integer of a list
