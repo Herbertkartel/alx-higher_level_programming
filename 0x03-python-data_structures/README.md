@@ -1,1 +1,1 @@
-The source code in order to switch value of a and b
+Prototypes and palindrome
