@@ -1,1 +1,1 @@
-Search replace
+Simple square matrix
