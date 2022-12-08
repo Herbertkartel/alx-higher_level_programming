@@ -1,1 +1,1 @@
-Simple delete
+Multiply by two
