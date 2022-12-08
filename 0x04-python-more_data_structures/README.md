@@ -1,1 +1,1 @@
-Weight average
+Square matrix map
