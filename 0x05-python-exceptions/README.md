@@ -1,1 +1,1 @@
-main 5
+Raise exception
