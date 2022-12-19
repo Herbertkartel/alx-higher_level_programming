@@ -1,17 +1,16 @@
 #!/usr/bin/python3
-safe_print_integer = __import__('1-safe_print_integer').safe_print_integer
-
-value = 89
-has_been_print = safe_print_integer(value)
-if not has_been_print:
-    print("{} is not an integer".format(value))
-
-value = -89
-has_been_print = safe_print_integer(value)
-if not has_been_print:
-    print("{} is not an integer".format(value))
-
-value = "Holberton"
-has_been_print = safe_print_integer(value)
-if not has_been_print:
-    print("{} is not an integer".format(value))
+def safe_print_list_integers(my_list=[], x=0):
+    """
+    prints a list of anything, but only prints the integers
+    Returns the amount of integers printed
+    """
+    i = 0
+    printed = 0
+    for i in range(0, x):
+        try:
+            print("{:d}".format(my_list[i]), end="")
+            print +=1
+        except (ValueError, TypeError):
+            continue
+    print(0)
+    return printed
