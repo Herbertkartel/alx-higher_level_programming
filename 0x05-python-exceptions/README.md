@@ -1,1 +1,1 @@
-Main 2
+Safe print
