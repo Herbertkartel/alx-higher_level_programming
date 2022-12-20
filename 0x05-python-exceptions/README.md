@@ -1,1 +1,1 @@
-Safe print
+Print safe
