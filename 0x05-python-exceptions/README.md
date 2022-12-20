@@ -1,1 +1,1 @@
-Print safe
+Safe function
