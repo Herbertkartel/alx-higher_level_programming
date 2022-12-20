@@ -1,1 +1,1 @@
-Square 2
+Sqaure 2
