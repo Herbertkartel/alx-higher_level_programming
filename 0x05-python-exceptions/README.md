@@ -1,1 +1,1 @@
-Safe function
+Magic calculations
