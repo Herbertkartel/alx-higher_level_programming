@@ -1,1 +1,1 @@
-Safe print
+Safe print division
