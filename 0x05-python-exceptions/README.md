@@ -1,1 +1,1 @@
-Calculations
+Safe function
