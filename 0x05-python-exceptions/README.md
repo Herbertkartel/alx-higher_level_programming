@@ -1,1 +1,1 @@
-Magic calculations
+Python
