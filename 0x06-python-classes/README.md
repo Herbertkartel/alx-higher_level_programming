@@ -1,1 +1,1 @@
-Magic class
+Square 4
