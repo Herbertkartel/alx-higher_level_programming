@@ -1,1 +1,1 @@
-Rectangle 3
+Triangle 3
