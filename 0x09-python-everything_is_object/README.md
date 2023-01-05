@@ -1,1 +1,1 @@
-Clear strings
+Int 2 3
