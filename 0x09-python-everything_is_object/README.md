@@ -1,1 +1,1 @@
-Task 31
+Clear strings
