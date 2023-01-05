@@ -1,1 +1,1 @@
-TAsk 28
+Magic string
