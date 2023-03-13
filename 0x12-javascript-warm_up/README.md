@@ -1,4 +1,4 @@
- 0x12. Javascript - Warm up
+# 0x12. Javascript - Warm up
 
 ## Learning Objectives
 
@@ -185,5 +185,4 @@ File: 103-object_fct.js
 Update this script by adding a new function incr that increments the integer value.
 
 You are not allowed to use var
-
 
